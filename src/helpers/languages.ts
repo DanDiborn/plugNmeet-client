@@ -1,5 +1,9 @@
 const languages = [
   {
+    code: 'ru-RU',
+    text: 'Русский',
+  },
+  {
     code: 'en',
     text: 'English',
   },
